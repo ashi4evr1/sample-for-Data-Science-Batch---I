@@ -4,4 +4,23 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>	WELCOME	<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
+This program has been designed to see different versions of the file you've saved.
+
+
+
+Every time you open the file and will write something to it, the changes will be saved 
+and your original version of the file will be changed as well.
+
+In-order to track these changes we will use the tool GIT.
+
+This is the second version of your original file or second change you have done.
+
+
+************************************************************************************************************
+
+
+
+
+
+
 
